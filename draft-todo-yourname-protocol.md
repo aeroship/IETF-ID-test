@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Making ID by markdown"
+abbrev: "ID by markdown"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-hong-nmrg-id-test-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Yong-Geun Hong
+    organization: Daejeon University
+    email: yonggeun.hong@gmail.com
 
 normative:
 
